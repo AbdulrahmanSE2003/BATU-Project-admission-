@@ -275,7 +275,7 @@ nav #university-logo a .logo {
   height: calc(100vh - 78px);
   position: relative;
 }
-@media (max-width:1600px){
+@media (min-width:1300px){
   #head h3{
   font-size: 4rem !important;
   }
@@ -283,7 +283,7 @@ nav #university-logo a .logo {
     font-size: 2rem !important;
   }
 }
-@media (max-width:1599px){
+@media (max-width:1300px){
   #head h3{
     font-size: 2.5rem !important;
   }
