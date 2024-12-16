@@ -45,6 +45,9 @@
 .main-trans{
   transition: all var(--trans-duration) ease-in-out;
 }
+html{
+  overflow-x: hidden;
+}
 body {
     font-family: "Cairo", sans-serif;
     background-color: var(--bg-color);
